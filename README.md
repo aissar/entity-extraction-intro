@@ -1,6 +1,6 @@
-# Entity Extraction with Large Language Models (LLMs)
+# Automate Data Extraction with Large Language Models (LLMs)
 
-This project provides a Jupyter notebook for exploring entity extraction with **OpenAI** using structured JSON outputs via custom `pydantic` models. Students can follow along to build foundational skills in extracting and structuring information from unstructured data sources.
+This project provides a Jupyter notebook for automating data extraction with language models, specifically **OpenAI**, using structured JSON outputs via custom `pydantic` models. Students can follow along to build foundational skills in extracting and structuring information from unstructured data sources.
 
 ## Prerequisites
 
